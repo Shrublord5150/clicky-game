@@ -1,0 +1,8 @@
+.jumbotron {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    /* padding: 20px; */
+    justify-content: center;
+    margin: 7% 0% 2% 0%
+}

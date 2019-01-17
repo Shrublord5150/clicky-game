@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.pexels.com/photos/937980/pexels-photo-937980.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 2,
+        "image": "https://images.pexels.com/photos/1083617/pexels-photo-1083617.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+        "id": 3,
+        "image": "https://images.pexels.com/photos/990826/pexels-photo-990826.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+        "id": 4,
+        "image": "https://images.pexels.com/photos/941548/pexels-photo-941548.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+        "id": 5,
+        "image": "https://images.pexels.com/photos/1050303/pexels-photo-1050303.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+        "id": 6,
+        "image": "https://images.pexels.com/photos/1065714/pexels-photo-1065714.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+        "id": 7,
+        "image": "https://images.pexels.com/photos/604684/pexels-photo-604684.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+        "id": 8,
+        "image": "https://images.pexels.com/photos/604671/pexels-photo-604671.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+        "id": 9,
+        "image": "https://images.pexels.com/photos/59810/smoke-fumes-black-white-59810.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+        "id": 10,
+        "image": "https://images.pexels.com/photos/1496187/pexels-photo-1496187.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+]

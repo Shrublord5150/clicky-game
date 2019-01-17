@@ -1,0 +1,31 @@
+.background {
+    height: auto;
+    width: auto;
+    color: whitesmoke;
+    justify-content: center;
+    font-family: cursive;
+    box-shadow: 0px 7px 5px rgb(156, 174, 185);
+}
+a {
+    color: inherit;
+    
+}
+
+a:hover, a:focus {
+    color: #005580;
+    text-decoration: none;
+}
+
+ul {
+    margin-right: 3%;
+    
+    
+}
+
+li {
+    display: inline-block;
+    margin: 2%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px
+}
+
