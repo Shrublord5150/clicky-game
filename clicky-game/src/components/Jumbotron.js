@@ -1,10 +1,10 @@
 import React from "react";
 import "../styles/Jumbotron.css";
 
-function Jumbotron() {
+function Jumbotron(props) {
   return (
     <div className="jumbotron">
-    <h1>Your Project</h1>
+    <h2>Instructions: {props.instructions}</h2>
 
   </div>
     
