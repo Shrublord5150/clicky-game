@@ -9,7 +9,7 @@ import './App.css';
 
 let score = 0;
 let topScore = 0;
-let instructions = "Click on an smokey image to get a point, but dont click on the same one twice!";
+let instructions = "Click on a smokey image to get a point, but dont click on the same one twice!";
 let clickedCards = [];
 
 class App extends Component {
